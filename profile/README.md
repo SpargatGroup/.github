@@ -33,5 +33,5 @@ Looking for top-tier executors? Join our [**Discord Server**](https://discord.co
 
 ### 🎮 **Join Us Today!**
 Ready to take your Roblox game to the next level?  
-👉 **[Join Our Discord Server](#)** 👈  
+👉 **[Join Our Discord Server](https://discord.com/invite/Kcz3j2mgjK)** 👈  
 Explore premium executors and stay ahead with Spargat Team!
