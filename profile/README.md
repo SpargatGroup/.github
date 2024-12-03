@@ -20,7 +20,7 @@ Our bypasser works with:
 - **Trigon**  
 
 💾 **Access Premium Executors:**  
-Looking for top-tier executors? Join our [**Discord Server**](#) to get latest executors.
+Looking for top-tier executors? Join our [**Discord Server**](https://discord.com/invite/Kcz3j2mgjK) to get latest executors.
 
 ---
 
