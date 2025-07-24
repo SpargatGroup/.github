@@ -1,14 +1,15 @@
-# SpargatGroup, from the mist to reality.
+# SpargatGroup/Spargat Romania
 
-## Our open-source projects:
+## Our current projects:
 
 - Blockman
-- DevCenter
-- OpenAmui
+- Bypasser
+- AMUI
 
-Our main team:
+## Our main members:
 
-- Comical ( Owner & Main project mantainer )
+- Comical ( Owner & Main mantainer )
 - TheKing ( Owner )
 - AnatineSquire40 ( Owner )
 - Devvy ( Co-Owner )
+- Tayoky4848 ( BlockmanTeam, Owne
