@@ -12,4 +12,4 @@
 - TheKing ( Owner )
 - AnatineSquire40 ( Owner )
 - Devvy ( Co-Owner )
-- Tayoky4848 ( BlockmanTeam, Owne
+- Tayoky4848 ( BlockmanTeam Owner )
